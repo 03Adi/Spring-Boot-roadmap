@@ -1,6 +1,4 @@
-# Spring-Boot-roadmap
-
-*** Java Developer Roadmap ***
+*** Full Stack Java Developer Roadmap ***
 
 1).BASIC DSA
 
