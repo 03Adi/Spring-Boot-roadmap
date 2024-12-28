@@ -1,7 +1,12 @@
 *** Full Stack Java Developer Roadmap ***
 
-1).BASIC DSA
+# week 1 -- 
 
-Arrays - 
-
-Basic swapping in array - traverse array // array traversing using built in method   
+| **S.No** | **Topic**       | 
+|----------|-----------------|
+| 1        | Arrays          |
+| 2        | Linked Lists    |
+| 3        | Stacks          |
+| 4        | Queues          |
+| 5        | Trees           |
+| 6        | Graphs          |
