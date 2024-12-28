@@ -4,4 +4,4 @@
 
 Arrays - 
 
-Basic swapping in array - traverse array // array traversing using built in method 
+Basic swapping in array - traverse array // array traversing using built in method   
