@@ -1,6 +1,6 @@
 *** Full Stack Java Developer Roadmap ***
 
-# week 1 -- 
+# week 1 (Basics of DSA) --- 
 
 | **S.No** | **Topic**       | 
 |----------|-----------------|
