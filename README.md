@@ -2,7 +2,7 @@
 
 # week 1 (Basics of DSA) --- 
 
-| **S.No** | **Topic**       | 
+| **S.No** | **Topic**       | **Description**
 |----------|-----------------|
 | 1        | Arrays          |
 | 2        | Linked Lists    |
