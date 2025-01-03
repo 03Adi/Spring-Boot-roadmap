@@ -12,3 +12,5 @@
 | 6        | Graphs          |
 
 # week 2 (Core Java Concepts) ---
+
+Data Types 
