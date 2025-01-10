@@ -13,5 +13,15 @@
 
 # week 2 (Core Java Concepts) ---
 
-| **s.no** | **Topics**      |
-|----------|-----------------|
+| **s.no** | **Topics**                        |
+|----------|-----------------------------------|
+| 1        | Data Types and Variables          |
+| 2        | Features and Architecture         |
+| 3        | Operator and Expressions          |
+| 4        | String Class                      |     
+| 5        | Conditional Statements and Loops  |
+| 6        | OOP'S Concept in Depth            |
+| 7        | Multithreading                    |
+| 8        | JAVA IO Streams                   |
+| 9        | Collection Framework              |
+| 10       | Java 8                            | 
