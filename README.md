@@ -13,6 +13,3 @@
 
 # week 2 (Core Java Concepts) ---
 
-Data Types 
-OOPS 
-Exception Handling Basic
