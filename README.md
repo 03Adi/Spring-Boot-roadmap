@@ -11,7 +11,7 @@
 | 5        | Trees           |
 | 6        | Graphs          |
 
-# week 2 (Core Java Concepts) ---
+# week 2 (Core Java Topics) ---
 
 | **s.no** | **Topics**                        |
 |----------|-----------------------------------|
