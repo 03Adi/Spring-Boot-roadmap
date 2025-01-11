@@ -1,4 +1,4 @@
-# 2025 learning curve
+# 2025 learning 
 
 # week 1 (Basics of DSA) --- 
 
