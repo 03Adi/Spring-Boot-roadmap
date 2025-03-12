@@ -1,4 +1,4 @@
-# 2025 learning 
+# 2025 learning
  
 # week 1 (Basics of DSA) ---
 
